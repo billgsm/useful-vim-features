@@ -10,3 +10,4 @@ Vundle:
  - 'Xuyuanp/nerdtree-git-plugin'
  - 'jistr/vim-nerdtree-tabs'
  - 'elzr/vim-json'
+ - 'altercation/vim-colors-solarized'
