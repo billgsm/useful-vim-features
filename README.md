@@ -1,4 +1,6 @@
 # useful-vim-features
+# Vim fonts
+* [vim-airline](https://github.com/vim-airline/vim-airline)
 
 # Vim ctags ...
 * http://dmitryfrank.com/articles/vim_project_code_navigation
