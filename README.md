@@ -7,8 +7,8 @@
 * http://vim.wikia.com/wiki/Autocmd_to_update_ctags_file
 
 # General topics
-
-http://blog.joncairns.com/2012/05/using-vim-as-a-php-ide/
+* http://nvie.com/posts/how-i-boosted-my-vim/
+* http://blog.joncairns.com/2012/05/using-vim-as-a-php-ide/
 
 Vundle:
  
