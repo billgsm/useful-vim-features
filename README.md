@@ -6,6 +6,9 @@
 * http://dmitryfrank.com/articles/vim_project_code_navigation
 * http://vim.wikia.com/wiki/Autocmd_to_update_ctags_file
 
+# Vim search
+* [vim-search](https://github.com/kien/ctrlp.vim)
+
 # General topics
 * http://nvie.com/posts/how-i-boosted-my-vim/
 * http://blog.joncairns.com/2012/05/using-vim-as-a-php-ide/
