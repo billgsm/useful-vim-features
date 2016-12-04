@@ -7,7 +7,7 @@
 * http://vim.wikia.com/wiki/Autocmd_to_update_ctags_file
 
 # Vim search
-* [vim-search](https://github.com/kien/ctrlp.vim)
+* [vim-search](https://github.com/ctrlpvim/ctrlp.vim)
 
 # General topics
 * http://nvie.com/posts/how-i-boosted-my-vim/
